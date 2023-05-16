@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
 </div>
@@ -12,7 +10,7 @@
     <img src="https://img.shields.io/badge/Thingiverse-blue?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Thingiverse Badge"/>
   </a>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=eolus87&style=flat-square&color=blue" alt=""/>
 <!--
 **eolus87/eolus87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
