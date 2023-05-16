@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
 </div>
 
-<div id="badges">
-  <a href="linkedin.com/in/nicolas-gutierrez-vazquez-a8464734">
+<div id="badges", align="center">
+  <a href="www.linkedin.com/in/nicolas-gutierrez-vazquez-a8464734">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.thingiverse.com/eolus/designs">
