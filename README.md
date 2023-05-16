@@ -9,7 +9,10 @@
   <a href="https://www.thingiverse.com/eolus/designs">
     <img src="https://img.shields.io/badge/Thingiverse-blue?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Thingiverse Badge"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=eolus87&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="visit_counter", align="center">
+  <img src="https://komarev.com/ghpvc/?username=eolus87&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!--
