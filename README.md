@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.thingiverse.com/eolus/designs">
-    <img src="https://img.shields.io/badge/Thingiverse-blue?logo=thingiverse&logoColor=white" alt="Thingiverse Badge"/>
+    <img src="https://img.shields.io/badge/Thingiverse-blue?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Thingiverse Badge"/>
   </a>
 </div>
 
