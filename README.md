@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200"/>
+</div>
+
+<div id="badges">
+  <a href="linkedin.com/in/nicolas-gutierrez-vazquez-a8464734">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.thingiverse.com/eolus/designs">
+    <img src="https://img.shields.io/badge/Thingiverse-blue?logo=thingiverse&logoColor=white" alt="Thingiverse Badge"/>
+  </a>
 </div>
 
 <!--
