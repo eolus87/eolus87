@@ -26,7 +26,7 @@
 ---
 
 ### :scientist: About Me :
-I am a data scientist with a PhD. I am a vocational engineer, passionate about data and technology.
+I am a data scientist, PhD. I am a vocational engineer, passionate about data and technology.
 
 - :telescope: I am working as a senior data scientist in a F1 team.
 - :zap: In my free time, I do 3D design and printing, python code and play computer games.
