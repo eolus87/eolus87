@@ -26,9 +26,9 @@
 ---
 
 ### :scientist: About Me :
-I am a data scientist, PhD. I am a vocational engineer, passionate about data and technology.
+I am a data scientist, PhD, vocational engineer, passionate about data and technology.
 
-- :telescope: I am working as a senior data scientist in a F1 team.
+- :telescope: I am working as a data science team lead in a F1 team.
 - 🌱 I’m currently (and always :)) learning data science, AI and ML.
 - :zap: In my free time, I do 3D design and printing, python code and play computer games.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Nicolas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-gutierrez-vazquez-a8464734)
